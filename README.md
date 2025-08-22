@@ -1,6 +1,8 @@
 # 用户反馈分类与智能工单系统
 
 本项目是一个用户反馈分类与智能工单系统，包含从数据收集、模型训练到Web应用的全套流程。
+<img width="1749" height="775" alt="屏幕截图 2025-08-22 170857" src="https://github.com/user-attachments/assets/29ffd4ff-4cec-4ef2-ad7b-894b6b05ae03" />
+<img width="1972" height="1202" alt="image" src="https://github.com/user-attachments/assets/33cfc9d1-e072-4eb2-9815-2df42be74d18" />
 
 
 ## 快速开始
